@@ -1,4 +1,4 @@
-# DesafioViaFlow
+# DesafioVF
 Testes lógicos iniciais
 
 "Nestes arquivos estão alguns testes simples de lógica, em forma de desafio."
